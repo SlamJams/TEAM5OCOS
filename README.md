@@ -1,1 +1,2 @@
 # TEAM5OCOS
+The goal of this team is to design, develop, and implement an Online Constituent Outreach System (OCOS) based on client-specified requirements in a measured and fully analytical fashion. The general requirements as communicated by the client specify a website front end, with a voter database backend, to manage the input, alteration, and dissemination of voter information to pertinent parties including candidates themselves, campaign volunteers, and members of a candidate’s district voter base.
